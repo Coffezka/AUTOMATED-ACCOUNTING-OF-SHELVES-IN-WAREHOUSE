@@ -1,0 +1,8 @@
+FROM alfg/nginx-rtmp:cuda
+
+
+# configuration
+COPY nginx.conf etc/nginx/nginx.conf.template
+
+#content
+RUN mkdir -p /etc/nginx/record

@@ -1,3 +1,4 @@
 # AUTOMATED ACCOUNTING OF SHELVES IN WAREHOUSE
  
-![photo_2022-04-27_17-46-28](https://user-images.githubusercontent.com/42944711/166658532-a2cb91b1-ce7d-4a86-acbb-b600a7f1c186.jpg)
+![image](https://user-images.githubusercontent.com/42944711/167513487-f1be7059-8968-4aef-b118-83e47c125704.png)
+

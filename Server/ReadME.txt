@@ -24,5 +24,7 @@ http://localhost:80/record/<name>
 
 #Play video
 rtmp://localhost:1935/vod/<name>
+
 #Play stream
 rtmp://localhost:1935/live/<key_stream>
+http://localhost:80/hls/<key_stream>.m3u8

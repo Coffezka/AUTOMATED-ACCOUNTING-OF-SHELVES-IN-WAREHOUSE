@@ -18,7 +18,7 @@ Especially for Oles Melnyk
 localhost:80/record.json
 localhost:80/record
 
-#Get flv
+#Get mp4 video
 http://localhost:80/record.json/<name>
 http://localhost:80/record/<name>
 

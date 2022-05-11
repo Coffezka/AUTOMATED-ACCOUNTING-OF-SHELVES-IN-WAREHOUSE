@@ -14,7 +14,7 @@ docker run -it -p 1935:1935 -p 80:80 --rm --mount type=bind,src=C:\Users\Svyatos
 
 Especially for Oles Melnyk
 
-#List flvs
+#List mp4
 localhost:80/record.json
 localhost:80/record
 

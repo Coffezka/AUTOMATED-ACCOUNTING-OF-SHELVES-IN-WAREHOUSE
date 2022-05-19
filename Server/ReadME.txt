@@ -9,8 +9,8 @@ docker run -it -p <port>:1935 -p <port>:80 --rm --mount type=bind,src=<way>,targ
 docker run -it -p <port>:1935 -p <port>:80 --rm --mount type=bind,src=<way>,target=/etc/nginx/record durotan/nginx-rtmp-cuda
 
 #Example
-docker run -it -p 1935:1935 -p 80:80 --rm --mount type=bind,src=C:\Users\Svyatoslav\Desktop\nginx\record,target=/opt/data/video durotan/nginx-rtmp
-docker run -it -p 1935:1935 -p 80:80 --rm --mount type=bind,src=C:\Users\Svyatoslav\Desktop\nginx\record,target=/opt/data/video durotan/nginx-rtmp-cuda
+docker run -it -p 1935:1935 -p 80:80 --rm --mount type=bind,src=C:\Users\Svyatoslav\Desktop\AUTOMATED-ACCOUNTING-OF-SHELVES-IN-WAREHOUSE\Server\record,target=/opt/data/video durotan/nginx-rtmp
+docker run -it -p 1935:1935 -p 80:80 --rm --mount type=bind,src=C:\Users\Svyatoslav\Desktop\AUTOMATED-ACCOUNTING-OF-SHELVES-IN-WAREHOUSE\Server\record,target=/opt/data/video durotan/nginx-rtmp-cuda
 
 Especially for Oles Melnyk
 

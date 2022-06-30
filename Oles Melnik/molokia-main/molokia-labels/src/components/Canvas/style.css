@@ -1,0 +1,12 @@
+.canvas {
+	position: absolute;
+}
+
+.canvas-container {
+	margin: 50px 0;
+	display: flex;
+	justify-content: center;
+}
+.canvasBackground {
+	position: absolute;
+}

@@ -1,0 +1,36 @@
+.grid {
+	margin: 0 auto;
+	margin-top: 20px !important;
+	justify-content: center;
+}
+
+.grid-element {
+	display: flex;
+	justify-content: center;
+}
+
+.dialog-content {
+	padding: 0 !important;
+	display: flex;
+	flex-direction: row;
+}
+
+.flex {
+	display: flex;
+}
+
+.justify-content-center {
+	justify-content: center;
+}
+
+.message {
+	display: flex;
+	justify-content: center;
+}
+.error {
+}
+
+.close-icon {
+	align-self: flex-end;
+	/* width: 50px; */
+}

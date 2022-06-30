@@ -1,0 +1,58 @@
+.labels-container {
+	padding: 20px;
+	display: flex;
+}
+
+.form {
+	width: 250px;
+}
+
+.labels {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	padding: 0 20px;
+}
+
+.header-row {
+	background-color: #1976d2;
+	border: 2px solid #d2cdcd;
+	width: 100%;
+	display: flex;
+}
+
+.row {
+	border: 2px solid #d2cdcd;
+	border-top: none;
+	width: 100%;
+	display: flex;
+}
+
+.name {
+	width: 50%;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.color {
+	width: 50%;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.color p,
+.name p {
+	color: white;
+	font-weight: bold;
+}
+
+.empty-area {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
